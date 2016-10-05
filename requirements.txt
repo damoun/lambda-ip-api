@@ -1,0 +1,9 @@
+botocore==1.4.59
+chalice==0.2.0
+click==6.2
+docutils==0.12
+jmespath==0.9.0
+python-dateutil==2.5.3
+six==1.10.0
+typing==3.5.1.0
+virtualenv==15.0.3
