@@ -1,0 +1,6 @@
+{
+    "dev": {
+        "s3_bucket": "dev-ip-api",
+        "app_function": "api.APP"
+    }
+}
